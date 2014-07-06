@@ -1,4 +1,8 @@
 set nocompatible    " Not compatible with the old-fashion vi mode
+
+" Pathogen - Vim plugin manager
+execute pathogen#infect() 
+
 set title
 set ruler 
 set number          " Line numbers
@@ -30,5 +34,3 @@ if has("autocmd")
   au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g'\"" | endif
 endif
 
-" Pathogen - Vim plugin manager
-execute pathogen#infect() 

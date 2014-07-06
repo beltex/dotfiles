@@ -2,3 +2,10 @@ dotfiles
 ========
 
 .files
+
+
+### Eclipse
+
+- Colours (two options)
+    - ```.epf``` for Eclipse pref import
+    - ```.xml``` for [Eclipse Color Theme plugin](https://github.com/eclipse-color-theme/eclipse-color-theme)
