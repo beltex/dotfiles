@@ -25,8 +25,14 @@ git submodule update
 - [vim-gradle](https://github.com/tfnico/vim-gradle.git)
 
 
+### iTerm2
+
+- [iTerm-2-Color-Themes](https://github.com/baskerville/iTerm-2-Color-Themes)
+
+
 ### Eclipse
 
-- Colours (two options)
-    - ```.epf``` for Eclipse pref import
-    - ```.xml``` for [Eclipse Color Theme plugin](https://github.com/eclipse-color-theme/eclipse-color-theme)
+For colours (two options)
+
+- ```.epf``` for Eclipse pref import
+- ```.xml``` for [Eclipse Color Theme plugin](https://github.com/eclipse-color-theme/eclipse-color-theme)
