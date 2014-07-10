@@ -16,12 +16,13 @@ git submodule init
 git submodule update
 ```
 
+
 ### Vim
 
 - [pathogen.vim](https://github.com/tpope/vim-pathogen)
 - [supertab](https://github.com/ervandew/supertab)
+- [vim-polyglot](https://github.com/sheerun/vim-polyglot)
 - [vim-gradle](https://github.com/tfnico/vim-gradle.git)
-
 
 
 ### Eclipse
