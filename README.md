@@ -21,6 +21,7 @@ git submodule update
 
 - [pathogen.vim](https://github.com/tpope/vim-pathogen)
 - [supertab](https://github.com/ervandew/supertab)
+- [syntastic](https://github.com/scrooloose/syntastic)
 - [vim-polyglot](https://github.com/sheerun/vim-polyglot)
 - [vim-gradle](https://github.com/tfnico/vim-gradle.git)
 
