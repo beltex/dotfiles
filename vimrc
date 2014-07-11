@@ -15,7 +15,7 @@ set ignorecase      " Case insensitive search
 set showmatch       " Show matching brackets
 
 set expandtab       " Use spaces instead of tabs
-set tabstop=2       " Number of spaces per tab
+set tabstop=4       " Number of spaces per tab
 set backspace=2     " Make backspace work like most other apps
 set mouse=a         " Enable mouse
 
@@ -34,3 +34,5 @@ if has("autocmd")
   au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g'\"" | endif
 endif
 
+" Java checker slow
+let g:syntastic_mode_map = { 'passive_filetypes': ['java'] }
