@@ -1,7 +1,7 @@
 dotfiles
 ========
 
-.files
+.files & configs.
 
 ### Git Submodules
 
@@ -24,6 +24,7 @@ git submodule update
 - [syntastic](https://github.com/scrooloose/syntastic)
 - [vim-polyglot](https://github.com/sheerun/vim-polyglot)
 - [vim-gradle](https://github.com/tfnico/vim-gradle.git)
+- [vim-airline](https://github.com/bling/vim-airline)
 
 
 ### iTerm2

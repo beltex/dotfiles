@@ -29,4 +29,4 @@ install rust
 install node
 
 # Remove outdated versions from the cellar
-#cleanup
+cleanup
