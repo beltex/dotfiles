@@ -6,6 +6,7 @@ execute pathogen#infect()
 set title
 set ruler 
 set number          " Line numbers
+set cursorline      " Underline the current line
 set laststatus=2    " Always show the status line
 set encoding=utf8   " Set utf8 as standard encoding
 
@@ -15,9 +16,10 @@ set ignorecase      " Case insensitive search
 set showmatch       " Show matching brackets
 
 set expandtab       " Use spaces instead of tabs
-set tabstop=4       " Number of spaces per tab
+set tabstop=2       " Number of spaces per tab
 set backspace=2     " Make backspace work like most other apps
 set mouse=a         " Enable mouse
+set wildmenu        " Tab completion for Vim commands
 
 " For colour schemes
 set t_Co=256

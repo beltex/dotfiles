@@ -13,6 +13,7 @@ install htop
 install tmux
 install weechat
 install class-dump
+install valgrind
 
 # Install more recent versions of some OS X tools
 install git
