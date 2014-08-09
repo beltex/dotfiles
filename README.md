@@ -25,7 +25,7 @@ git submodule update
 - [vim-polyglot](https://github.com/sheerun/vim-polyglot)
 - [vim-gradle](https://github.com/tfnico/vim-gradle.git)
 - [vim-airline](https://github.com/bling/vim-airline)
-
+- [vim-swift](https://github.com/toyamarinyon/vim-swift)
 
 ### iTerm2
 
