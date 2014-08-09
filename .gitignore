@@ -1,6 +1,9 @@
 # General purpose .gitignore file
 # Modified from Bootstrap
 
+# Vim
+.netrwhist
+
 # Gradle
 .gradle/
 

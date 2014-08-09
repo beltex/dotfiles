@@ -1,5 +1,6 @@
-# WHAT: Install command-line tools using Homebrew
-# USAGE: `brew bundle Brewfile`
+# WHAT   : Install command-line tools using Homebrew
+# USAGE  : `brew bundle Brewfile`
+# SOURCE : Modified from https://github.com/mathiasbynens/dotfiles
 
 # Make sure we’re using the latest Homebrew
 update

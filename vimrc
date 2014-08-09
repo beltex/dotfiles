@@ -20,6 +20,7 @@ set tabstop=2       " Number of spaces per tab
 set backspace=2     " Make backspace work like most other apps
 set mouse=a         " Enable mouse
 set wildmenu        " Tab completion for Vim commands
+set ttyfast         " Supposed to make scrolling faster
 
 " For colour schemes
 set t_Co=256
