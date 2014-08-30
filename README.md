@@ -3,6 +3,7 @@ dotfiles
 
 .files & configs.
 
+
 ### Git Submodules
 
 ```sh
@@ -27,6 +28,7 @@ git submodule update
 - [vim-airline](https://github.com/bling/vim-airline)
 - [vim-swift](https://github.com/toyamarinyon/vim-swift)
 
+
 ### iTerm2
 
 - [iTerm-2-Color-Themes](https://github.com/baskerville/iTerm-2-Color-Themes)
@@ -34,7 +36,14 @@ git submodule update
 
 ### Eclipse
 
-For colours (two options)
+**Colours**
+
+Two options
 
 - ```.epf``` for Eclipse pref import
-- ```.xml``` for [Eclipse Color Theme plugin](https://github.com/eclipse-color-theme/eclipse-color-theme)
+- ```.xml``` for [Eclipse Color Theme](https://github.com/eclipse-color-theme/eclipse-color-theme) plugin
+
+**Plugins**
+
+- [AnyEdit](http://andrei.gmxhome.de/anyedit/)
+- [Eclipse Color Theme](https://github.com/eclipse-color-theme/eclipse-color-theme)
