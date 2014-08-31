@@ -5,22 +5,23 @@ execute pathogen#infect()
 
 set title
 set ruler 
-set number          " Line numbers
-set cursorline      " Underline the current line
-set laststatus=2    " Always show the status line
-set encoding=utf8   " Set utf8 as standard encoding
+set number           " Line numbers
+set cursorline       " Underline the current line
+set laststatus=2     " Always show the status line
+set encoding=utf8    " Set utf8 as standard encoding
 
-set hlsearch        " Highlight search
-set incsearch       " Search as you type
-set ignorecase      " Case insensitive search
-set showmatch       " Show matching brackets
+set hlsearch         " Highlight search
+set incsearch        " Search as you type
+set ignorecase       " Case insensitive search
+set showmatch        " Show matching brackets
 
-set expandtab       " Use spaces instead of tabs
-set tabstop=2       " Number of spaces per tab
-set backspace=2     " Make backspace work like most other apps
-set mouse=a         " Enable mouse
-set wildmenu        " Tab completion for Vim commands
-set ttyfast         " Supposed to make scrolling faster
+set expandtab        " Use spaces instead of tabs
+set tabstop=2        " Number of spaces per tab
+set backspace=2      " Make backspace work like most other apps
+set mouse=a          " Enable mouse
+set wildmenu         " Tab completion for Vim commands
+set ttyfast          " Supposed to make scrolling faster
+set spelllang=en_ca  " Spell check language
 
 " For colour schemes
 set t_Co=256

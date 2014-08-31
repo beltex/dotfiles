@@ -1,27 +1,5 @@
-# General purpose .gitignore file
-# Modified from Bootstrap
-
 # Vim
 .netrwhist
-
-# Gradle
-.gradle/
-
-# Java
-*.class
-
-# Eclipse
-RemoteSystemsTempFiles/
-Servers/
-build/
-.metadata/
-.settings/
-.project
-.classpath
-
-# Ignore compiled docs
-_gh_pages
-_site
 
 # Numerous always-ignore extensions
 *.diff
@@ -46,7 +24,3 @@ nbproject
 *.sublime-project
 *.sublime-workspace
 /bin
-
-# Folders to ignore
-node_modules
-bower_components
