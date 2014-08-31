@@ -1,7 +1,9 @@
-set nocompatible    " Not compatible with the old-fashion vi mode
+set nocompatible     " Not compatible with the old-fashion vi mode
 
 " Pathogen - Vim plugin manager
 execute pathogen#infect() 
+
+filetype plugin on   " Enable file type detection
 
 set title
 set ruler 
