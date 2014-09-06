@@ -6,7 +6,7 @@
 update
 
 # Upgrade any already-installed formulae
-#upgrade
+upgrade
 
 # Tools
 install wget
@@ -15,10 +15,12 @@ install tmux
 install weechat
 install class-dump
 install valgrind
+#install coreutils
 
 # Install more recent versions of some OS X tools
 install git
 install vim --override-system-vi
+install zsh
 
 # Java
 install ant
