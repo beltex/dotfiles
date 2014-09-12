@@ -25,6 +25,10 @@ set wildmenu         " Tab completion for Vim commands
 set ttyfast          " Supposed to make scrolling faster
 set spelllang=en_ca  " Spell check language
 
+" 80 char line mark
+set colorcolumn=81
+highlight ColorColumn ctermbg=6
+
 " For colour schemes
 set t_Co=256
 syntax enable

@@ -15,6 +15,9 @@ install tmux
 install weechat
 install class-dump
 install valgrind
+
+# GNU Utils
+#install binutils
 #install coreutils
 
 # Install more recent versions of some OS X tools
