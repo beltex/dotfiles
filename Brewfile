@@ -15,6 +15,8 @@ install tmux
 install weechat
 install class-dump
 install valgrind
+install clib
+install doxygen
 
 # GNU Utils
 #install binutils
