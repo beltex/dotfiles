@@ -1,12 +1,12 @@
 [user]
-	name = beltex
-	email = beltex@users.noreply.github.com
+  name = beltex
+  email = beltex@users.noreply.github.com
 [push]
-	default = simple
+  default = simple
 [filter "media"]
-	clean = git-media-clean %f
-	smudge = git-media-smudge %f
+  clean = git-media-clean %f
+  smudge = git-media-smudge %f
 [color]
-  # Use colors in Git commands that are capable of colored output when
+  # Use colours in Git commands that are capable of colored output when
   # outputting to the terminal. (This is the default setting in Git ≥ 1.8.4.)
   ui = auto

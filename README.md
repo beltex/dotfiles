@@ -3,20 +3,15 @@ dotfiles
 
 .files & configs.
 
-
 ### Git Submodules
 
 ```sh
+# Auto init all submodules on clone
+git clone --recursive git@github.com:beltex/dotfiles.git
+
 # Add a submodule
 git submodule add <REPO_URL>
-
-# Init a submodule
-git submodule init
-
-# Update a submodule
-git submodule update
 ```
-
 
 ### Vim
 
@@ -28,11 +23,9 @@ git submodule update
 - [vim-airline](https://github.com/bling/vim-airline)
 - [vim-swift](https://github.com/toyamarinyon/vim-swift)
 
-
 ### iTerm2
 
 - [iTerm-2-Color-Themes](https://github.com/baskerville/iTerm-2-Color-Themes)
-
 
 ### Eclipse
 
