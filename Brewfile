@@ -17,6 +17,7 @@ install class-dump
 install valgrind
 install clib
 install doxygen
+install tree
 
 # GNU Utils
 #install binutils
