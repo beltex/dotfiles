@@ -18,6 +18,7 @@ install valgrind
 install clib
 install doxygen
 install tree
+install youtube-dl
 
 # GNU Utils
 #install binutils

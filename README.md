@@ -3,7 +3,7 @@ dotfiles
 
 .files & configs.
 
-### Git Submodules
+### [Git Submodules](http://git-scm.com/docs/git-submodule)
 
 ```sh
 # Auto init all submodules on clone
@@ -13,7 +13,7 @@ git clone --recursive git@github.com:beltex/dotfiles.git
 git submodule add <REPO_URL>
 ```
 
-### Vim
+### [Vim](http://www.vim.org)
 
 - [pathogen.vim](https://github.com/tpope/vim-pathogen)
 - [supertab](https://github.com/ervandew/supertab)
@@ -23,18 +23,18 @@ git submodule add <REPO_URL>
 - [vim-airline](https://github.com/bling/vim-airline)
 - [vim-swift](https://github.com/toyamarinyon/vim-swift)
 
-### iTerm2
+### [iTerm2](http://iterm2.com)
 
 - [iTerm-2-Color-Themes](https://github.com/baskerville/iTerm-2-Color-Themes)
 
-### Eclipse
+### [Eclipse](https://eclipse.org)
 
 **Colours**
 
 Two options
 
-- ```.epf``` for Eclipse pref import
-- ```.xml``` for [Eclipse Color Theme](https://github.com/eclipse-color-theme/eclipse-color-theme) plugin
+- `.epf` for Eclipse pref import
+- `.xml` for [Eclipse Color Theme](https://github.com/eclipse-color-theme/eclipse-color-theme) plugin
 
 **Plugins**
 
