@@ -19,6 +19,7 @@ install clib
 install doxygen
 install tree
 install youtube-dl
+install clang-format
 
 # GNU Utils
 #install binutils
